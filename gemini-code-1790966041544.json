@@ -1,0 +1,1268 @@
+[
+  {
+    "iden": "4D106EF0-29E1-FFAC-2FBB-FF4D02FAD11A",
+    "forename": "Mike",
+    "surname": "LaFleur",
+    "role": "headCoach",
+    "pool": "staff",
+    "teamAbbr": "ARI",
+    "teamId": 1,
+    "bio": {
+      "age": 39,
+      "startSeason": 2014,
+      "portraitId": "portrait-0696"
+    },
+    "personality": {
+      "loyalty": 63,
+      "greed": 30,
+      "ambition": 58
+    },
+    "skills": {
+      "motivation": 76,
+      "discipline": 77,
+      "management": 65,
+      "playcalling": 73,
+      "playDesign": 77,
+      "runGame": 70,
+      "passDefense": 72,
+      "passingDev": 74,
+      "kicking": 73
+    },
+    "styles": {
+      "offStyle": "Vertical",
+      "defStyle": "3-4 Zone",
+      "rbStyle": "Lead Back",
+      "blitzStyle": "Low",
+      "fourthStyle": "Aggressive",
+      "coverageStyle": "Cover 3"
+    },
+    "development": {
+      "ovr": 62,
+      "potential": 68,
+      "progressionCurve": [
+        44, 73, 83, 42, 45, 91, 0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890, -910, -930
+      ]
+    },
+    "contract": {
+      "years": 1,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "A2D8ECEE-EF42-770E-EF55-76E2B55D532D",
+    "forename": "Sean",
+    "surname": "Pope",
+    "role": "offCoordinator",
+    "pool": "staff",
+    "teamAbbr": "ARI",
+    "teamId": 1,
+    "bio": {
+      "age": 39,
+      "startSeason": 2017,
+      "portraitId": "portrait-0671"
+    },
+    "personality": {
+      "loyalty": 52,
+      "greed": 21,
+      "ambition": 28
+    },
+    "skills": {
+      "motivation": 76,
+      "discipline": 73,
+      "management": 69,
+      "playcalling": 79,
+      "playDesign": 71,
+      "runGame": 70,
+      "passDefense": 75,
+      "passingDev": 78,
+      "kicking": 76
+    },
+    "styles": {
+      "offStyle": "Vertical",
+      "defStyle": "3-4 Man",
+      "rbStyle": "Bellcow",
+      "blitzStyle": "Medium",
+      "fourthStyle": "Cautious"
+    },
+    "development": {
+      "ovr": 65,
+      "potential": 70,
+      "progressionCurve": [
+        61, 79, 63, 77, 49, 47, 67, 67, 0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890
+      ]
+    },
+    "contract": {
+      "years": 4,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "401B2332-F31E-DEB2-9264-2CF9E518C7DB",
+    "forename": "Nolan",
+    "surname": "Clark",
+    "role": "defCoordinator",
+    "pool": "staff",
+    "teamAbbr": "ARI",
+    "teamId": 1,
+    "bio": {
+      "age": 45,
+      "startSeason": 2016,
+      "portraitId": "portrait-0684"
+    },
+    "personality": {
+      "loyalty": 53,
+      "greed": 46,
+      "ambition": 65
+    },
+    "skills": {
+      "motivation": 76,
+      "discipline": 79,
+      "management": 83,
+      "playcalling": 70,
+      "playDesign": 78,
+      "runGame": 78,
+      "passDefense": 77,
+      "passingDev": 75,
+      "kicking": 71
+    },
+    "styles": {
+      "offStyle": "Pro Style",
+      "defStyle": "3-4 Zone",
+      "rbStyle": "Bellcow",
+      "blitzStyle": "Low",
+      "fourthStyle": "Cautious"
+    },
+    "development": {
+      "ovr": 76,
+      "potential": 76,
+      "progressionCurve": [
+        97, 82, 69, 88, 93, 45, 54, 71, 0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890
+      ]
+    },
+    "contract": {
+      "years": 1,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "F5DD99EF-7F3A-304B-4DF5-7B5E5087329D",
+    "forename": "Caleb",
+    "surname": "Gurley",
+    "role": "specialTeams",
+    "pool": "staff",
+    "teamAbbr": "ARI",
+    "teamId": 1,
+    "bio": {
+      "age": 67,
+      "startSeason": 2006,
+      "portraitId": "portrait-0683"
+    },
+    "personality": {
+      "loyalty": 26,
+      "greed": 81,
+      "ambition": 74
+    },
+    "skills": {
+      "motivation": 74,
+      "discipline": 76,
+      "management": 73,
+      "playcalling": 73,
+      "playDesign": 77,
+      "runGame": 69,
+      "passDefense": 72,
+      "passingDev": 76,
+      "kicking": 78
+    },
+    "styles": {
+      "offStyle": "Vertical",
+      "defStyle": "3-4 Zone",
+      "rbStyle": "Lead Back",
+      "blitzStyle": "High",
+      "fourthStyle": "Balanced"
+    },
+    "development": {
+      "ovr": 66,
+      "potential": 72,
+      "progressionCurve": [
+        0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890, -910, -930, -950, -970, -990, -1010, -1030, -1050
+      ]
+    },
+    "contract": {
+      "years": 1,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "51A5D60D-F179-1DCB-792B-3BBA1C956E51",
+    "forename": "Elijah",
+    "surname": "Quimby",
+    "role": "offScout",
+    "pool": "staff",
+    "teamAbbr": "ARI",
+    "teamId": 1,
+    "bio": {
+      "age": 55,
+      "startSeason": 2007,
+      "portraitId": "portrait-0663"
+    },
+    "personality": {
+      "loyalty": 55,
+      "greed": 21,
+      "ambition": 62
+    },
+    "skills": {
+      "OscoutEval": 72,
+      "OscoutDiamond": 99
+    },
+    "styles": {
+      "scoutType": "Diamond Spotter",
+      "scoutBoost": "C"
+    },
+    "development": {
+      "ovr": 99,
+      "potential": 99,
+      "progressionCurve": [
+        73, 68, 62, 79, 84, 0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890, -910, -930, -950
+      ]
+    },
+    "contract": {
+      "years": 4,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "D81E8054-3AE0-7F07-C7BA-7173CC9B55C8",
+    "forename": "Doug",
+    "surname": "Stone",
+    "role": "defScout",
+    "pool": "staff",
+    "teamAbbr": "ARI",
+    "teamId": 1,
+    "bio": {
+      "age": 67,
+      "startSeason": 2023,
+      "portraitId": "portrait-0660"
+    },
+    "personality": {
+      "loyalty": 49,
+      "greed": 71,
+      "ambition": 65
+    },
+    "skills": {
+      "DscoutEval": 56,
+      "DscoutDiamond": 58
+    },
+    "styles": {
+      "scoutType": "Balanced",
+      "scoutBoost": "LB"
+    },
+    "development": {
+      "ovr": 57,
+      "potential": 60,
+      "progressionCurve": [
+        0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890, -910, -930, -950, -970, -990, -1010, -1030, -1050
+      ]
+    },
+    "contract": {
+      "years": 4,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "422E2B65-39B0-8BCA-394C-C7108A3C810B",
+    "forename": "Sam",
+    "surname": "Fowler",
+    "role": "teamDoctor",
+    "pool": "staff",
+    "teamAbbr": "ARI",
+    "teamId": 1,
+    "bio": {
+      "age": 49,
+      "startSeason": 2007,
+      "portraitId": "portrait-0695"
+    },
+    "personality": {
+      "loyalty": 22,
+      "greed": 50,
+      "ambition": 26
+    },
+    "skills": {
+      "injuryPrevention": 81,
+      "rehabSpeed": 81,
+      "reInjuryRisk": 81
+    },
+    "styles": {
+      "physType": "Preventor",
+      "physBoost": "Core & Ribs"
+    },
+    "development": {
+      "ovr": 82,
+      "potential": 87,
+      "progressionCurve": [
+        40, 54, 90, 56, 50, 53, 68, 59, 0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890
+      ]
+    },
+    "contract": {
+      "years": 4,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "FA19F567-E4A1-F053-D8CB-43990AFECB34",
+    "forename": "Kevin",
+    "surname": "Stefanski",
+    "role": "headCoach",
+    "pool": "staff",
+    "teamAbbr": "ATL",
+    "teamId": 2,
+    "bio": {
+      "age": 44,
+      "startSeason": 2006,
+      "portraitId": "portrait-0660"
+    },
+    "personality": {
+      "loyalty": 95,
+      "greed": 59,
+      "ambition": 30
+    },
+    "skills": {
+      "motivation": 78,
+      "discipline": 79,
+      "management": 79,
+      "playcalling": 78,
+      "playDesign": 81,
+      "runGame": 74,
+      "passDefense": 77,
+      "passingDev": 88,
+      "kicking": 86
+    },
+    "styles": {
+      "offStyle": "Smashmouth",
+      "defStyle": "3-4 Zone",
+      "rbStyle": "Lead Back",
+      "blitzStyle": "Medium",
+      "fourthStyle": "Cautious",
+      "coverageStyle": "Quarters"
+    },
+    "development": {
+      "ovr": 77,
+      "potential": 83,
+      "progressionCurve": [
+        0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890, -910, -930, -950, -970, -990, -1010, -1030, -1050
+      ]
+    },
+    "contract": {
+      "years": 4,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "6A63E652-DB79-D0C7-EEA6-B649D66CC357",
+    "forename": "Callum",
+    "surname": "Merrill",
+    "role": "offCoordinator",
+    "pool": "staff",
+    "teamAbbr": "ATL",
+    "teamId": 2,
+    "bio": {
+      "age": 64,
+      "startSeason": 2018,
+      "portraitId": "portrait-0674"
+    },
+    "personality": {
+      "loyalty": 43,
+      "greed": 53,
+      "ambition": 45
+    },
+    "skills": {
+      "motivation": 60,
+      "discipline": 73,
+      "management": 67,
+      "playcalling": 68,
+      "playDesign": 67,
+      "runGame": 71,
+      "passDefense": 71,
+      "passingDev": 71,
+      "kicking": 78
+    },
+    "styles": {
+      "offStyle": "Smashmouth",
+      "defStyle": "4-3 Zone",
+      "rbStyle": "Backfield Committee",
+      "blitzStyle": "High",
+      "fourthStyle": "Balanced"
+    },
+    "development": {
+      "ovr": 54,
+      "potential": 60,
+      "progressionCurve": [
+        0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890, -910, -930, -950, -970, -990, -1010, -1030, -1050
+      ]
+    },
+    "contract": {
+      "years": 3,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "5765A6B0-295C-2CB2-57F6-689DF9D94025",
+    "forename": "Francisco",
+    "surname": "King",
+    "role": "defCoordinator",
+    "pool": "staff",
+    "teamAbbr": "ATL",
+    "teamId": 2,
+    "bio": {
+      "age": 59,
+      "startSeason": 2012,
+      "portraitId": "portrait-0662"
+    },
+    "personality": {
+      "loyalty": 38,
+      "greed": 59,
+      "ambition": 74
+    },
+    "skills": {
+      "motivation": 71,
+      "discipline": 76,
+      "management": 77,
+      "playcalling": 77,
+      "playDesign": 68,
+      "runGame": 75,
+      "passDefense": 73,
+      "passingDev": 74,
+      "kicking": 78
+    },
+    "styles": {
+      "offStyle": "West Coast",
+      "defStyle": "3-4 Zone",
+      "rbStyle": "Backfield Committee",
+      "blitzStyle": "High",
+      "fourthStyle": "Cautious"
+    },
+    "development": {
+      "ovr": 69,
+      "potential": 75,
+      "progressionCurve": [
+        49, 0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890, -910, -930, -950, -970, -990, -1010, -1030
+      ]
+    },
+    "contract": {
+      "years": 4,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "6FBACFFF-C331-8C0E-FE0B-0CB888F77044",
+    "forename": "Pablo",
+    "surname": "Pena",
+    "role": "specialTeams",
+    "pool": "staff",
+    "teamAbbr": "ATL",
+    "teamId": 2,
+    "bio": {
+      "age": 40,
+      "startSeason": 2023,
+      "portraitId": "portrait-0680"
+    },
+    "personality": {
+      "loyalty": 60,
+      "greed": 74,
+      "ambition": 94
+    },
+    "skills": {
+      "motivation": 86,
+      "discipline": 80,
+      "management": 78,
+      "playcalling": 79,
+      "playDesign": 79,
+      "runGame": 78,
+      "passDefense": 79,
+      "passingDev": 74,
+      "kicking": 75
+    },
+    "styles": {
+      "offStyle": "Option",
+      "defStyle": "4-3 Zone",
+      "rbStyle": "Lead Back",
+      "blitzStyle": "High",
+      "fourthStyle": "Cautious"
+    },
+    "development": {
+      "ovr": 78,
+      "potential": 81,
+      "progressionCurve": [
+        94, 68, 97, 86, 54, 81, 44, 86, 0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890
+      ]
+    },
+    "contract": {
+      "years": 1,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "47241482-A58C-879B-B46C-2C081D401883",
+    "forename": "Percy",
+    "surname": "Marbury",
+    "role": "offScout",
+    "pool": "staff",
+    "teamAbbr": "ATL",
+    "teamId": 2,
+    "bio": {
+      "age": 68,
+      "startSeason": 2024,
+      "portraitId": "portrait-0675"
+    },
+    "personality": {
+      "loyalty": 66,
+      "greed": 32,
+      "ambition": 53
+    },
+    "skills": {
+      "OscoutEval": 61,
+      "OscoutDiamond": 71
+    },
+    "styles": {
+      "scoutType": "Balanced",
+      "scoutBoost": "OT"
+    },
+    "development": {
+      "ovr": 64,
+      "potential": 66,
+      "progressionCurve": [
+        0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890, -910, -930, -950, -970, -990, -1010, -1030, -1050
+      ]
+    },
+    "contract": {
+      "years": 1,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "7DE18E81-6793-8DCC-49DC-76896A6035EB",
+    "forename": "Deandre",
+    "surname": "Ferguson",
+    "role": "defScout",
+    "pool": "staff",
+    "teamAbbr": "ATL",
+    "teamId": 2,
+    "bio": {
+      "age": 65,
+      "startSeason": 2005,
+      "portraitId": "portrait-0686"
+    },
+    "personality": {
+      "loyalty": 54,
+      "greed": 54,
+      "ambition": 62
+    },
+    "skills": {
+      "DscoutEval": 48,
+      "DscoutDiamond": 60
+    },
+    "styles": {
+      "scoutType": "Balanced",
+      "scoutBoost": "EDGE"
+    },
+    "development": {
+      "ovr": 50,
+      "potential": 56,
+      "progressionCurve": [
+        0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890, -910, -930, -950, -970, -990, -1010, -1030, -1050
+      ]
+    },
+    "contract": {
+      "years": 4,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "19E53D3F-5629-D500-605C-84CA81D03507",
+    "forename": "Jerome",
+    "surname": "Dawkins",
+    "role": "teamDoctor",
+    "pool": "staff",
+    "teamAbbr": "ATL",
+    "teamId": 2,
+    "bio": {
+      "age": 63,
+      "startSeason": 2017,
+      "portraitId": "portrait-0668"
+    },
+    "personality": {
+      "loyalty": 93,
+      "greed": 58,
+      "ambition": 63
+    },
+    "skills": {
+      "injuryPrevention": 87,
+      "rehabSpeed": 68,
+      "reInjuryRisk": 89
+    },
+    "styles": {
+      "physType": "Healer",
+      "physBoost": "Foot & Ankle"
+    },
+    "development": {
+      "ovr": 83,
+      "potential": 89,
+      "progressionCurve": [
+        0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890, -910, -930, -950, -970, -990, -1010, -1030, -1050
+      ]
+    },
+    "contract": {
+      "years": 4,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "EC0DF20E-5879-6F5D-CA1A-DB4888C8746D",
+    "forename": "Jesse",
+    "surname": "Minter",
+    "role": "headCoach",
+    "pool": "staff",
+    "teamAbbr": "BAL",
+    "teamId": 3,
+    "bio": {
+      "age": 43,
+      "startSeason": 2011,
+      "portraitId": "portrait-0663"
+    },
+    "personality": {
+      "loyalty": 20,
+      "greed": 71,
+      "ambition": 72
+    },
+    "skills": {
+      "motivation": 73,
+      "discipline": 69,
+      "management": 67,
+      "playcalling": 77,
+      "playDesign": 66,
+      "runGame": 72,
+      "passDefense": 67,
+      "passingDev": 63,
+      "kicking": 72
+    },
+    "styles": {
+      "offStyle": "Spread",
+      "defStyle": "Hybrid Man",
+      "rbStyle": "Bellcow",
+      "blitzStyle": "Low",
+      "fourthStyle": "Balanced",
+      "coverageStyle": "Cover 1"
+    },
+    "development": {
+      "ovr": 54,
+      "potential": 59,
+      "progressionCurve": [
+        80, 93, 54, 51, 88, 72, 88, 95, 0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890
+      ]
+    },
+    "contract": {
+      "years": 3,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "0764B6A9-B4EC-3EE4-B13E-75FCDE1EF07D",
+    "forename": "Brian",
+    "surname": "Ashby",
+    "role": "offCoordinator",
+    "pool": "staff",
+    "teamAbbr": "BAL",
+    "teamId": 3,
+    "bio": {
+      "age": 50,
+      "startSeason": 2015,
+      "portraitId": "portrait-0316"
+    },
+    "personality": {
+      "loyalty": 33,
+      "greed": 52,
+      "ambition": 22
+    },
+    "skills": {
+      "motivation": 74,
+      "discipline": 83,
+      "management": 81,
+      "playcalling": 80,
+      "playDesign": 83,
+      "runGame": 79,
+      "passDefense": 70,
+      "passingDev": 80,
+      "kicking": 78
+    },
+    "styles": {
+      "offStyle": "Spread",
+      "defStyle": "Hybrid Zone",
+      "rbStyle": "Bellcow",
+      "blitzStyle": "Low",
+      "fourthStyle": "Aggressive"
+    },
+    "development": {
+      "ovr": 78,
+      "potential": 81,
+      "progressionCurve": [
+        54, 54, 63, 86, 42, 72, 82, 51, 0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890
+      ]
+    },
+    "contract": {
+      "years": 3,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "157F06E1-2D61-F41D-DDA3-B38FC9DE3C43",
+    "forename": "Sterling",
+    "surname": "Telford",
+    "role": "defCoordinator",
+    "pool": "staff",
+    "teamAbbr": "BAL",
+    "teamId": 3,
+    "bio": {
+      "age": 49,
+      "startSeason": 2025,
+      "portraitId": "portrait-0697"
+    },
+    "personality": {
+      "loyalty": 50,
+      "greed": 94,
+      "ambition": 83
+    },
+    "skills": {
+      "motivation": 69,
+      "discipline": 76,
+      "management": 80,
+      "playcalling": 69,
+      "playDesign": 71,
+      "runGame": 71,
+      "passDefense": 75,
+      "passingDev": 76,
+      "kicking": 76
+    },
+    "styles": {
+      "offStyle": "Smashmouth",
+      "defStyle": "Hybrid Man",
+      "rbStyle": "Backfield Committee",
+      "blitzStyle": "Medium",
+      "fourthStyle": "Aggressive"
+    },
+    "development": {
+      "ovr": 68,
+      "potential": 68,
+      "progressionCurve": [
+        89, 77, 44, 93, 90, 80, 49, 99, 0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890
+      ]
+    },
+    "contract": {
+      "years": 4,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "A68C0EDE-67EE-8E4F-7A6C-18957468A6D9",
+    "forename": "Brian",
+    "surname": "Compton",
+    "role": "specialTeams",
+    "pool": "staff",
+    "teamAbbr": "BAL",
+    "teamId": 3,
+    "bio": {
+      "age": 66,
+      "startSeason": 2023,
+      "portraitId": "portrait-0663"
+    },
+    "personality": {
+      "loyalty": 84,
+      "greed": 69,
+      "ambition": 95
+    },
+    "skills": {
+      "motivation": 76,
+      "discipline": 82,
+      "management": 80,
+      "playcalling": 80,
+      "playDesign": 83,
+      "runGame": 81,
+      "passDefense": 72,
+      "passingDev": 70,
+      "kicking": 77
+    },
+    "styles": {
+      "offStyle": "West Coast",
+      "defStyle": "Hybrid Man",
+      "rbStyle": "Lead Back",
+      "blitzStyle": "Medium",
+      "fourthStyle": "Aggressive"
+    },
+    "development": {
+      "ovr": 77,
+      "potential": 82,
+      "progressionCurve": [
+        0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890, -910, -930, -950, -970, -990, -1010, -1030, -1050
+      ]
+    },
+    "contract": {
+      "years": 3,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "C0058590-81E0-B538-EFB9-224411D72EE3",
+    "forename": "Ivan",
+    "surname": "Frias",
+    "role": "offScout",
+    "pool": "staff",
+    "teamAbbr": "BAL",
+    "teamId": 3,
+    "bio": {
+      "age": 50,
+      "startSeason": 2015,
+      "portraitId": "portrait-0314"
+    },
+    "personality": {
+      "loyalty": 69,
+      "greed": 43,
+      "ambition": 43
+    },
+    "skills": {
+      "OscoutEval": 78,
+      "OscoutDiamond": 79
+    },
+    "styles": {
+      "scoutType": "Current Evaluator",
+      "scoutBoost": "OG"
+    },
+    "development": {
+      "ovr": 83,
+      "potential": 85,
+      "progressionCurve": [
+        51, 100, 62, 88, 66, 96, 99, 95, 0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890
+      ]
+    },
+    "contract": {
+      "years": 2,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "B7100F38-FD27-2163-9B55-B1F63697BF29",
+    "forename": "Marcus",
+    "surname": "Olomua",
+    "role": "defScout",
+    "pool": "staff",
+    "teamAbbr": "BAL",
+    "teamId": 3,
+    "bio": {
+      "age": 61,
+      "startSeason": 2016,
+      "portraitId": "portrait-0308"
+    },
+    "personality": {
+      "loyalty": 48,
+      "greed": 45,
+      "ambition": 80
+    },
+    "skills": {
+      "DscoutEval": 67,
+      "DscoutDiamond": 65
+    },
+    "styles": {
+      "scoutType": "Current Evaluator",
+      "scoutBoost": "CB"
+    },
+    "development": {
+      "ovr": 67,
+      "potential": 72,
+      "progressionCurve": [
+        0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890, -910, -930, -950, -970, -990, -1010, -1030, -1050
+      ]
+    },
+    "contract": {
+      "years": 1,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "FF5E2BD1-E86F-2447-B98F-337288AF2211",
+    "forename": "Isaac",
+    "surname": "Turner",
+    "role": "teamDoctor",
+    "pool": "staff",
+    "teamAbbr": "BAL",
+    "teamId": 3,
+    "bio": {
+      "age": 48,
+      "startSeason": 2023,
+      "portraitId": "portrait-0660"
+    },
+    "personality": {
+      "loyalty": 25,
+      "greed": 22,
+      "ambition": 68
+    },
+    "skills": {
+      "injuryPrevention": 76,
+      "rehabSpeed": 85,
+      "reInjuryRisk": 76
+    },
+    "styles": {
+      "physType": "Healer",
+      "physBoost": "Head & Neck"
+    },
+    "development": {
+      "ovr": 82,
+      "potential": 83,
+      "progressionCurve": [
+        65, 58, 98, 67, 49, 84, 63, 77, 0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890
+      ]
+    },
+    "contract": {
+      "years": 3,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "699F90E4-F7B9-AD6B-EA9A-9D8BFE934FE6",
+    "forename": "Joe",
+    "surname": "Brady",
+    "role": "headCoach",
+    "pool": "staff",
+    "teamAbbr": "BUF",
+    "teamId": 4,
+    "bio": {
+      "age": 37,
+      "startSeason": 2013,
+      "portraitId": "portrait-0669"
+    },
+    "personality": {
+      "loyalty": 74,
+      "greed": 28,
+      "ambition": 49
+    },
+    "skills": {
+      "motivation": 77,
+      "discipline": 79,
+      "management": 76,
+      "playcalling": 72,
+      "playDesign": 75,
+      "runGame": 77,
+      "passDefense": 77,
+      "passingDev": 70,
+      "kicking": 73
+    },
+    "styles": {
+      "offStyle": "Smashmouth",
+      "defStyle": "3-4 Man",
+      "rbStyle": "Bellcow",
+      "blitzStyle": "High",
+      "fourthStyle": "Aggressive",
+      "coverageStyle": "Cover 1"
+    },
+    "development": {
+      "ovr": 68,
+      "potential": 73,
+      "progressionCurve": [
+        94, 97, 78, 72, 95, 0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890, -910, -930, -950
+      ]
+    },
+    "contract": {
+      "years": 4,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "B43785E4-9AC5-F5FF-252F-BBAD4583D71E",
+    "forename": "Malik",
+    "surname": "Mays",
+    "role": "offCoordinator",
+    "pool": "staff",
+    "teamAbbr": "BUF",
+    "teamId": 4,
+    "bio": {
+      "age": 67,
+      "startSeason": 2004,
+      "portraitId": "portrait-0485"
+    },
+    "personality": {
+      "loyalty": 29,
+      "greed": 51,
+      "ambition": 60
+    },
+    "skills": {
+      "motivation": 85,
+      "discipline": 82,
+      "management": 83,
+      "playcalling": 77,
+      "playDesign": 79,
+      "runGame": 79,
+      "passDefense": 78,
+      "passingDev": 75,
+      "kicking": 80
+    },
+    "styles": {
+      "offStyle": "Smashmouth",
+      "defStyle": "3-4 Man",
+      "rbStyle": "Bellcow",
+      "blitzStyle": "Medium",
+      "fourthStyle": "Aggressive"
+    },
+    "development": {
+      "ovr": 77,
+      "potential": 83,
+      "progressionCurve": [
+        0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890, -910, -930, -950, -970, -990, -1010, -1030, -1050
+      ]
+    },
+    "contract": {
+      "years": 2,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "16FA52B7-ADE6-AB1A-F0EE-50323D009D10",
+    "forename": "Mitch",
+    "surname": "Ames",
+    "role": "defCoordinator",
+    "pool": "staff",
+    "teamAbbr": "BUF",
+    "teamId": 4,
+    "bio": {
+      "age": 42,
+      "startSeason": 2021,
+      "portraitId": "portrait-0670"
+    },
+    "personality": {
+      "loyalty": 80,
+      "greed": 75,
+      "ambition": 24
+    },
+    "skills": {
+      "motivation": 79,
+      "discipline": 74,
+      "management": 78,
+      "playcalling": 82,
+      "playDesign": 81,
+      "runGame": 84,
+      "passDefense": 71,
+      "passingDev": 79,
+      "kicking": 83
+    },
+    "styles": {
+      "offStyle": "Option",
+      "defStyle": "3-4 Man",
+      "rbStyle": "Bellcow",
+      "blitzStyle": "High",
+      "fourthStyle": "Balanced"
+    },
+    "development": {
+      "ovr": 76,
+      "potential": 76,
+      "progressionCurve": [
+        59, 76, 91, 54, 67, 79, 61, 95, 0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890
+      ]
+    },
+    "contract": {
+      "years": 3,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "65D33418-6BFC-26CA-F9EC-064F911BB19C",
+    "forename": "Zachary",
+    "surname": "Fierro",
+    "role": "specialTeams",
+    "pool": "staff",
+    "teamAbbr": "BUF",
+    "teamId": 4,
+    "bio": {
+      "age": 61,
+      "startSeason": 2018,
+      "portraitId": "portrait-0682"
+    },
+    "personality": {
+      "loyalty": 31,
+      "greed": 51,
+      "ambition": 62
+    },
+    "skills": {
+      "motivation": 87,
+      "discipline": 73,
+      "management": 75,
+      "playcalling": 84,
+      "playDesign": 80,
+      "runGame": 81,
+      "passDefense": 78,
+      "passingDev": 84,
+      "kicking": 79
+    },
+    "styles": {
+      "offStyle": "Vertical",
+      "defStyle": "4-3 Zone",
+      "rbStyle": "Backfield Committee",
+      "blitzStyle": "Low",
+      "fourthStyle": "Balanced"
+    },
+    "development": {
+      "ovr": 80,
+      "potential": 80,
+      "progressionCurve": [
+        0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890, -910, -930, -950, -970, -990, -1010, -1030, -1050
+      ]
+    },
+    "contract": {
+      "years": 3,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "C7E95B85-2F0C-9626-5CA9-5E03B0E57393",
+    "forename": "Maurice",
+    "surname": "Porter",
+    "role": "offScout",
+    "pool": "staff",
+    "teamAbbr": "BUF",
+    "teamId": 4,
+    "bio": {
+      "age": 47,
+      "startSeason": 2014,
+      "portraitId": "portrait-0485"
+    },
+    "personality": {
+      "loyalty": 82,
+      "greed": 86,
+      "ambition": 65
+    },
+    "skills": {
+      "OscoutEval": 77,
+      "OscoutDiamond": 77
+    },
+    "styles": {
+      "scoutType": "Current Evaluator",
+      "scoutBoost": "QB"
+    },
+    "development": {
+      "ovr": 80,
+      "potential": 84,
+      "progressionCurve": [
+        54, 96, 50, 98, 50, 99, 60, 59, 0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890
+      ]
+    },
+    "contract": {
+      "years": 2,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "11088BD8-CAD0-C883-BF27-782E415E975F",
+    "forename": "Bernard",
+    "surname": "Murray",
+    "role": "defScout",
+    "pool": "staff",
+    "teamAbbr": "BUF",
+    "teamId": 4,
+    "bio": {
+      "age": 51,
+      "startSeason": 2016,
+      "portraitId": "portrait-0483"
+    },
+    "personality": {
+      "loyalty": 46,
+      "greed": 93,
+      "ambition": 37
+    },
+    "skills": {
+      "DscoutEval": 64,
+      "DscoutDiamond": 67
+    },
+    "styles": {
+      "scoutType": "Diamond Spotter",
+      "scoutBoost": "CB"
+    },
+    "development": {
+      "ovr": 66,
+      "potential": 71,
+      "progressionCurve": [
+        52, 69, 97, 50, 59, 71, 70, 40, 0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890
+      ]
+    },
+    "contract": {
+      "years": 3,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "CCC900D7-11F3-AD04-1398-0FEA161CBE91",
+    "forename": "Zion",
+    "surname": "Wright",
+    "role": "teamDoctor",
+    "pool": "staff",
+    "teamAbbr": "BUF",
+    "teamId": 4,
+    "bio": {
+      "age": 52,
+      "startSeason": 2015,
+      "portraitId": "portrait-0675"
+    },
+    "personality": {
+      "loyalty": 30,
+      "greed": 58,
+      "ambition": 42
+    },
+    "skills": {
+      "injuryPrevention": 68,
+      "rehabSpeed": 63,
+      "reInjuryRisk": 66
+    },
+    "styles": {
+      "physType": "Healer",
+      "physBoost": "Head & Neck"
+    },
+    "development": {
+      "ovr": 81,
+      "potential": 81,
+      "progressionCurve": [
+        48, 68, 66, 58, 78, 76, 42, 57, 0, 0, 0, 0, -130, -150, -170, -190, -210, -230, -250, -270, -290, -310, -330, -350, -370, -390, -410, -430, -450, -470, -490, -510, -530, -550, -570, -590, -610, -630, -650, -670, -690, -710, -730, -750, -770, -790, -810, -830, -850, -870, -890
+      ]
+    },
+    "contract": {
+      "years": 1,
+      "extYears": 0
+    }
+  },
+  {
+    "iden": "07C0F70E-0F06-5CBF-260B-50EB52C969EA",
+    "forename": "Dave",
+    "surname": "Canales",
+    "role": "headCoach",
+    "pool": "staff",
+    "teamAbbr": "CAR",
+    "teamId": 5,
+    "bio": {
+      "age": 45,
+      "startSeason": 2010,
+      "portraitId": "portrait-0664"
+    },
+    "personality": {
+      "loyalty": 46,
+      "greed": 72,
+      "ambition": 22
+    },
+    "skills": {
+      "motivation": 87,
+      "discipline": 88,
+      "management": 85,
+      "playcalling": 86,
+      "playDesign": 86,
+      "runGame": 89,
+      "passDefense": 85,
+      "passingDev": 84,
+      "kicking": 88
+    },
+    "styles": {
+      "offStyle": "Spread",
+      "defStyle": "4-3 Man"
+    }
+  }
+]
